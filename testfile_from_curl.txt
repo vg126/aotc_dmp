@@ -1,0 +1,1 @@
+DSP write test from curl manual
